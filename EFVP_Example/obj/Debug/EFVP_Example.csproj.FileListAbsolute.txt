@@ -1,0 +1,12 @@
+c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\bin\Debug\EFVP_Example.exe.config
+c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\bin\Debug\EFVP_Example.exe
+c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\bin\Debug\EFVP_Example.pdb
+c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\bin\Debug\EntityFramework.dll
+c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\bin\Debug\EntityFramework.xml
+c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\obj\Debug\EFVP_Example.csprojResolveAssemblyReference.cache
+c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\obj\Debug\EFVP_Example.csproj.CoreCompileInputs.cache
+c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\obj\Debug\EFVP_Example.csproj.CopyComplete
+c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\obj\Debug\EFVP_Example.exe
+c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\obj\Debug\EFVP_Example.pdb
