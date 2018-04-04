@@ -57,6 +57,15 @@
     <Compile Include="Configurations\VendorEntityConfiguration.cs" />
     <Compile Include="contextDB.cs" />
     <Compile Include="Entities\product.cs" />
+    <Compile Include="Migrations\201804040353573_InitialCreate.cs" />
+    <Compile Include="Migrations\201804040353573_InitialCreate.Designer.cs">
+      <DependentUpon>201804040353573_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201804040354399_add_product_Description.cs" />
+    <Compile Include="Migrations\201804040354399_add_product_Description.Designer.cs">
+      <DependentUpon>201804040354399_add_product_Description.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Entities\specification.cs" />
@@ -67,6 +76,13 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201804040353573_InitialCreate.resx">
+      <DependentUpon>201804040353573_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804040354399_add_product_Description.resx">
+      <DependentUpon>201804040354399_add_product_Description.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

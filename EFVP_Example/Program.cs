@@ -11,7 +11,7 @@ namespace EFVP_Example
         public static void Main(string[] args)
         {
             //RetrieveDetails(1);
-            AddProducts();
+            //AddProducts();
 
 
             Console.ReadLine();

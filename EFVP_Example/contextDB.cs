@@ -11,6 +11,7 @@ namespace EFVP_Example
         public contextDB()
             : base("name=DbContext")
         {
+            Database.SetInitializer<contextDB>(new DropCreateDatabaseAlways<contextDB>());
         }
 
         public virtual DbSet<Category> Categories { get; set; }

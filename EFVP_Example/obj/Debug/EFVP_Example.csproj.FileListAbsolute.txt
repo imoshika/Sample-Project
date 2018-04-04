@@ -10,3 +10,6 @@ c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\obj\Debug\EFVP_Example.
 c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\obj\Debug\EFVP_Example.csproj.CopyComplete
 c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\obj\Debug\EFVP_Example.exe
 c:\users\imoshika\source\repos\EFVP_Example\EFVP_Example\obj\Debug\EFVP_Example.pdb
+C:\Users\imoshika\source\repos\EFVP_Example\EFVP_Example\obj\Debug\EFVP_Example.Migrations.InitialCreate.resources
+C:\Users\imoshika\source\repos\EFVP_Example\EFVP_Example\obj\Debug\EFVP_Example.csproj.GenerateResource.cache
+C:\Users\imoshika\source\repos\EFVP_Example\EFVP_Example\obj\Debug\EFVP_Example.Migrations.add_product_Description.resources

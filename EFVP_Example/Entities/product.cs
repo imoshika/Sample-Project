@@ -23,6 +23,12 @@ namespace EFVP_Example
         [StringLength(50)]
         public string ProductName { get; set; }
 
+        [StringLength(50)]
+        public string productType { get; set; }
+
+        [StringLength(50)]
+        public string Description { get; set; }
+
         [Column(TypeName = "smalldatetime")]
         public DateTime? Created { get; set; }
 
